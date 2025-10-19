@@ -11,7 +11,10 @@ He colaborado en proyectos clave como la predicción de lluvias extremas y el di
 # Certificaciones
 
 Científico de datos - TripleTen
+
 Análisis Cualitativo con ATLAS.TI - Lumivero
+
 Análisis Espacial con Qgis - CentroGeo
+
 
 in: www.linkedin.com/in/juan-alvarez-352387353
