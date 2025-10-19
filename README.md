@@ -7,4 +7,9 @@ Dominio técnico en Python (Pandas, Scikit-learn), R y SQL. Experiencia práctic
 
 He colaborado en proyectos clave como la predicción de lluvias extremas y el diseño de indicadores de resiliencia urbana. Mi experiencia como consultor y docente me permite traducir hallazgos técnicos en estrategias accionables, facilitando la toma de decisiones por parte de stakeholders.
 
+##Certificaciones
+Científico de datos - TripleTen
+Análisis Cualitativo con ATLAS.TI - Lumivero
+Análisis Espacial con Qgis - CentroGeo
+
 in: www.linkedin.com/in/juan-alvarez-352387353
