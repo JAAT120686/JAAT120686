@@ -1,5 +1,6 @@
 # Perfil_JUAN_ALVAREZ
 Perfil Público
+
 Profesional de datos con una sólida base en Estadística y Sistemas de Información, enfocado en la Ciencia de Datos. Mi experiencia se centra en aplicar el rigor metodológico para proponer y ejecutar soluciones analíticas, con énfasis en el modelado predictivo y el análisis geoespacial.
 
 Dominio técnico en Python (Pandas, Scikit-learn), R y SQL. Experiencia práctica en Machine Learning con modelos de Series de Tiempo (LSTM, Prophet), Random Forest y Regresión. Experto en Análisis Geoespacial utilizando QGIS para la visualización y modelado de riesgos complejos.
